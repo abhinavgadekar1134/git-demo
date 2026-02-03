@@ -1,1 +1,3 @@
-login page added
+login page added 
+Enhanced UI
+Added JWT Token
